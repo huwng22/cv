@@ -1,0 +1,27 @@
+Create website with HTML
+HTMLL + CSS
+
+How does the internet work?:
+    Client and Server
+        Client - Internet Service Provider - DNS Server - Database
+
+
+How do websites work?
+    Code Files: HTML + CSS + JS.
+        HTML: v.v.. Button, Layer
+        CSS: Styles
+        Js: Connect.
+
+https://Codepen.io
+
+pascalvangener.nl
+
+Day 41 HTML Forms
+    <form>
+    <label>
+    <input type="text"
+           type="color"
+           type="checkbox"
+           type="Submit"
+
+<br>: enter
